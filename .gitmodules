@@ -6,5 +6,5 @@
 	url = https://github.com/nothings/stb
 [submodule "dependencies/RSDKv5"]
 	path = dependencies/RSDKv5
-	url = https://github.com/michael-fadely/RSDKv5-Decompilation
-	branch = "sf94/dreamcast-kallistios-pvr"
+	url = https://github.com/requeijaum/RSDKv5-Decompilation
+	branch = "requeijaum/dc-build-fixes"
